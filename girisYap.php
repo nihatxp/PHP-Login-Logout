@@ -25,7 +25,7 @@ if(isset($_SESSION['Giris']) == true ){
         <label for="inputUsername" class="sr-only">Kullanıcı Adı</label>
         <input name="Username" type="username" id="inputUsername" class="form-control" placeholder="Kullanıcı Adı" required autofocus>
         <label for="inputPassword" class="sr-only">Parola</label>
-        <input name="Password" type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+        <input name="Password" type="password" id="inputPassword" class="form-control" placeholder="Parola" required>
         <button name="Submit" value="Login" class="btn btn-lg btn-primary btn-block" type="submit">Giriş Yap</button>
         <?php
         if(isset($_POST['Submit'])){
