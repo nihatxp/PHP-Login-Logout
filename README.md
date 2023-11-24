@@ -11,7 +11,7 @@
 # <h1 align=center> Password🔐: 2023
 
 
-![photoshop](https://private-user-images.githubusercontent.com/122365280/284989028-60ad2535-9de3-4fe0-abab-9703ac0399c5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDA4NjEyNzIsIm5iZiI6MTcwMDg2MDk3MiwicGF0aCI6Ii8xMjIzNjUyODAvMjg0OTg5MDI4LTYwYWQyNTM1LTlkZTMtNGZlMC1hYmFiLTk3MDNhYzAzOTljNS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyNFQyMTIyNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ODM0MDNhNmE4ZTc4ZWQzNjIwNzQ5ZDdkZDRkZDU1ZjMwOWNkNWI4MTQ1MzhmMzNiODMwODczYWQyYTk3NzJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.XwLsmLAjvhhZWQsrJCVfjTETWHJbSdyjXZ6mVKOkdDw)
+![photoshop](https://www.thedawstudio.com/wp-content/uploads/2016/08/FL-Studio-Screenshot-1024x517.png)
 
 
 ⚫️FL Studio (formerly known as FruityLoops) is a complete professional music creation and audio production program developed by Image-Line. It provides a wide range of tools and features that enable musicians and producers to create high-quality music compositions.
